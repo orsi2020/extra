@@ -25,7 +25,6 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
     display: block;
 }
-
 body {
     line-height: 1;
 }
@@ -82,4 +81,7 @@ body {
     font-size: 1em;
     margin-top: 1em;
   }
+}
+.navigation {
+  margin-top: 2em;
 }
