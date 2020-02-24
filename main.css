@@ -81,6 +81,9 @@ body {
     font-size: 1em;
     margin-top: 1em;
   }
+  .navigation {
+    margin-top: 1em;
+  }
 }
 .navigation {
   margin-top: 2em;
