@@ -51,18 +51,21 @@ table {
 /* ==== END CSS RESET ==== */
 
 body {
-  background: url("https://raw.githubusercontent.com/CodeBerrySchool/simple-quote-page/master/assets/freedom.jpg") no-repeat center fixed;
+  background: url("assets/freedom.jpg") no-repeat center fixed;
   background-size: cover;
   width: 100%;
-  color: dimgrey;
- }
+  color: #404040;
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+}
 .content {
   text-align: center;
   align-items: center;
   padding: 5%;
  }
 .quote {
-  font-size: 1.8em;
+  font-size: 1.9em;
   line-height: 1.5;
   letter-spacing: 1.2px;
   font-family: "Julius Sans One", sans-serif;
